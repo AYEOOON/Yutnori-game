@@ -1,4 +1,5 @@
 # Yutnori-game
+#### 2022 - 1 AI프로그래밍 기초
 
 ## 💡 How to Play
 
